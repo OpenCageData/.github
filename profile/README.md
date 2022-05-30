@@ -1,6 +1,8 @@
 ## Hello from OpenCage!
 
-[!["OpenCage"](/profile/opencage_logo_300_150.png)](https://opencagedata.com){: .center-image }
+<p align="center">
+[!["OpenCage"](/profile/opencage_logo_300_150.png)](https://opencagedata.com)
+</p>
 
 We run a worldwide [geocoding API](https://opencagedata.com/api) and [geosearch](https://opencagedata.com/geosearch) service based on open data. 
 Learn more [about us](https://opencagedata.com/about). 
