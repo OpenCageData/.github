@@ -1,6 +1,6 @@
 ## Hello from OpenCage!
 
-<a href="https://opencagedata.com"><img src="opencage_logo_300_150.png"></a>
+[!["OpenCage"](/profile/opencage_logo_300_150.png)](https://opencagedata.com){: .center-image }
 
 We run a worldwide [geocoding API](https://opencagedata.com/api) and [geosearch](https://opencagedata.com/geosearch) service based on open data. 
 Learn more [about us](https://opencagedata.com/about). 
