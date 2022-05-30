@@ -1,7 +1,7 @@
 ## Hello from OpenCage!
 
 <p align="center">
-[!["OpenCage"](/profile/opencage_logo_300_150.png)](https://opencagedata.com)
+<a href="https://opencagedata.com"><img src="/profile/opencage_logo_300_150.png" alt="OpenCage"></a>
 </p>
 
 We run a worldwide [geocoding API](https://opencagedata.com/api) and [geosearch](https://opencagedata.com/geosearch) service based on open data. 
